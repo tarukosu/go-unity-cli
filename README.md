@@ -1,6 +1,10 @@
 # go-unity-cli
 CUI でUnity プロジェクトを開くためのツールです。
 
+## 動作環境
+- Windows
+- Unity Hub が `C:\Program Files\Unity Hub\` にインストールされている
+
 ## 使い方
 Release ページから go-unity-cli.exe をダウンロードし、パスを通してください。
 
